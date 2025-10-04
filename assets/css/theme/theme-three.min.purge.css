@@ -3491,7 +3491,7 @@ textarea.form-control {
   display: inline-flex !important;
 }
 .d-none {
-  /* display: none !important; */
+  display: none !important;
 }
 .position-relative {
   position: relative !important;
@@ -3886,7 +3886,7 @@ textarea.form-control {
   font-size: 1.125rem !important;
 }
 .fs-6 {
-  font-size: 14px !important;
+  font-size: 12px !important;
 }
 .fs-7 {
   font-size: 0.875rem !important;
